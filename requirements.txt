@@ -11,3 +11,4 @@ langchain-text-splitters>=0.3
 langchain-groq>=0.2
 chromadb>=0.5
 langsmith>=0.1
+gunicorn>=22.0
